@@ -1,0 +1,29 @@
+body {
+    background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.3), 
+      rgba(0, 0, 0, 0.3)
+    ),
+    url("https://images.hdqwalls.com/download/lines-black-abstract-blur-tx-1920x1200.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+@font-face {
+  font-family: 'Atkinson Hyperlegible', sans-serif;
+  src: url("C:/Users/Nabeel/Downloads/project_video_chat/client/src/fonts/AtkinsonHyperlegible-Bold.ttf");
+}
+
+* {
+    margin: 0;
+    padding: 0;    
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-weight: 700;
+}
+
+h2{
+  font-family: 'Atkinson Hyperlegible', sans-serif;
+  font-weight: 700
+}
